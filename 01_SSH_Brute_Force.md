@@ -1,7 +1,7 @@
 # Case Information #
-- **Case ID:** SOC-2024-00321
+- **Case ID:** SOC-2026-00301
 - **Analyst:** Emre Utku
-- **Date:** 30 Mar 2024
+- **Date:** 13 Feb 2026
 - **Status:** Open - Monitoring
 - **Priority:** Low / Medium
 
