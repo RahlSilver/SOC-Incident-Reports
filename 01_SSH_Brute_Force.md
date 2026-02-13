@@ -22,8 +22,8 @@ SSH Failed Login Attempts – Invalid Users
 The SSH service recorded multiple failed authentication attempts targeting privileged-style usernames within a short time window. The activity originated from internal IP addresses.
 
 # Evidence #
-- 30 Mar 12:45:01 server sshd[41458]: Failed password for invalid user admin from 192.168.1.3 port 37362 ssh2
-- 30 Mar 12:45:05 server sshd[41458]: Failed password for invalid user root from 192.168.1.6 port 37362 ssh2
+- 13 Feb 12:45:01 server sshd[41458]: Failed password for invalid user admin from 192.168.1.3 port 37362 ssh2
+- 13 Feb 12:45:05 server sshd[41458]: Failed password for invalid user root from 192.168.1.6 port 37362 ssh2
 
 # Initial Analysis (SOC Perspective) #
 - “Invalid user” indicates username guessing.
